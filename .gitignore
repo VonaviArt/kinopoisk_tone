@@ -1,4 +1,4 @@
 .env
-.test.jsonl
-.validation.jsonl
-.test.jsonl
+test.jsonl
+validation.jsonl
+test.jsonl
