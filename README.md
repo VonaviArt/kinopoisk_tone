@@ -29,7 +29,7 @@ weighted avg      0.725     0.725     0.725      1500
 
 ## Запуск
 
-1. Клонировать репозиторий и скачать модель (`[<ссылка>](https://huggingface.co/deepvk/RuModernBERT-base))`) в `models/ru-modernbert-sentiment/`.
+1. Клонировать репозиторий и скачать модель ([`[])`](https://huggingface.co/deepvk/RuModernBERT-base)) в `models/ru-modernbert-sentiment/`.
 
 2. Запустить:
 
