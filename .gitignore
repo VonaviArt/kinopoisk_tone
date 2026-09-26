@@ -1,4 +1,6 @@
 .env
-test.jsonl
-validation.jsonl
-train.jsonl
+venv/
+models/
+results/
+*.jsonl
+__pycache__/

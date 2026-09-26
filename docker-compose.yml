@@ -1,0 +1,7 @@
+services:
+  sentiment:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./models/ru-modernbert-sentiment:/models/ru-modernbert-sentiment:ro

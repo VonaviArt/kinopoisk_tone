@@ -1,0 +1,8 @@
+venv
+models
+*.jsonl
+*.ipynb
+.git
+.env
+results
+__pycache__
