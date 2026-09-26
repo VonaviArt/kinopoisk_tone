@@ -5,7 +5,8 @@
 Веб-интерфейс на Gradio и HTTP API на FastAPI.
 
 ## Результаты
-![Uploading image.png…]()
+<img width="2993" height="1808" alt="image" src="https://github.com/user-attachments/assets/d32ca51d-9d39-424d-82e9-e75685855ebf" />
+
 
               precision    recall  f1-score   support
 
