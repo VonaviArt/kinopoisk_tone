@@ -5,6 +5,8 @@
 Веб-интерфейс на Gradio и HTTP API на FastAPI.
 
 ## Результаты
+![Uploading image.png…]()
+
               precision    recall  f1-score   support
 
          Bad      0.822     0.796     0.809       500
@@ -26,16 +28,12 @@ weighted avg      0.725     0.725     0.725      1500
 
 ## Запуск
 
-1. Клонировать репозиторий и скачать модель (`<ссылка>`) в `models/ru-modernbert-sentiment/`.
+1. Клонировать репозиторий и скачать модель (`[<ссылка>](https://huggingface.co/deepvk/RuModernBERT-base))`) в `models/ru-modernbert-sentiment/`.
 
-2. Запустить одним из способов:
+2. Запустить:
 
 ```bash
 docker compose up --build
-```
-или
-```bash
-./run.sh
 ```
 
 3. Открыть http://127.0.0.1:8000
